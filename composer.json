@@ -1,0 +1,14 @@
+{
+    "name": "timosh/php-activerecord-service-provider",
+    "description": "phpactiverecord.org for silex2",
+    "require": {
+        "silex/silex": "2",
+        "php-activerecord/php-activerecord": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "timosh",
+            "email": "mrtimosh@gmail.com"
+        }
+    ]
+}
