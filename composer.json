@@ -1,8 +1,10 @@
 {
     "name": "timosh/php-activerecord-service-provider",
     "description": "phpactiverecord.org for silex2",
+    "keywords": ["silex2", "php-activerecord", "silex2 profiler", "php-activerecord profiler"],
+    "license": "MIT",
     "require": {
-        "silex/silex": "2",
+        "silex/silex": "~2.0",
         "php-activerecord/php-activerecord": "dev-master"
     },
     "authors": [
