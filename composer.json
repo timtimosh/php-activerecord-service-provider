@@ -13,6 +13,9 @@
             "email": "mrtimosh@gmail.com"
         }
     ], 
+    "autoload": {
+        "files": ["ActiveRecord.php"]
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
